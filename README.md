@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Maulik Sharma</h1>
 <h3 align="center">A passionate Software Engineer from Bangalora, India</h3>
 
+- 💬 Interested in blockchain based solutions, currently learning Solidity
 
+- 📫 Reach me at **sharmamaulik95@gmail.com**
+
+- 🎮 Big time gamer
 
 ## 🌐 Connect with me :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mauliksharma2004) 
