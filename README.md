@@ -1,8 +1,9 @@
-# 💫 About Me:
-Hey 👋, I am Maulik Sharma.<br>I'm a passionate Computer Science student from Bangalore, India. <br><br>
+<h1 align="center">Hi 👋, I'm Maulik Sharma S</h1>
+<h3 align="center">A passionate Software Engineer from Bangalora, India</h3>
 
 
-## 🌐 Socials:
+
+## 🌐 Connect with me :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mauliksharma2004) 
 
 # 💻 Tech Stack:
