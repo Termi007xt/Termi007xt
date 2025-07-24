@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Maulik Sharma S</h1>
+<h1 align="center">Hi 👋, I'm Maulik Sharma</h1>
 <h3 align="center">A passionate Software Engineer from Bangalora, India</h3>
 
 
