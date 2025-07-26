@@ -1,4 +1,6 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1200/1*tZl19oAzRw300ociN47vvg.gif)
+<p align="center">
+  <img src="https://cdn3.emoji.gg/emojis/1261-hackerbongocat.gif" alt="MasterHead" width="200" />
+</p>
 
 <h1 align="center">Hi, I'm Maulik Sharma</h1>
 <h3 align="center">Student | Coder | Gamer</h3>
