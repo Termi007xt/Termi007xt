@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://cdn3.emoji.gg/emojis/1261-hackerbongocat.gif" alt="MasterHead" width="200" />
+  <img src="https://www.zuplic.com/wp-content/uploads/2025/02/web-developer-career.gif" alt="MasterHead" width="600" />
 </p>
+
+<!-- https://cdn3.emoji.gg/emojis/1261-hackerbongocat.gif -->
 
 <h1 align="center">Hi, I'm Maulik Sharma</h1>
 <h3 align="center">Student | Coder | Gamer</h3>
