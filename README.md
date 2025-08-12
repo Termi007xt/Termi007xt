@@ -8,15 +8,15 @@
 <h1 align="center">Hi, I'm Maulik Sharma</h1>
 <h3 align="center">Student | Coder | Gamer</h3>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/00cc00/Termi007xt" alt="GitHub contribution chart for Termi007xt" />
-</p>
+<!--<p align="center"> -->
+<!--   <img src="https://ghchart.rshah.org/00cc00/Termi007xt" alt="GitHub contribution chart for Termi007xt" /> -->
+<!-- </p> -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Termi007xt&label=Profile%20views&color=0e75b6&style=flat" alt="Termi007xt" />
 </p>
 
----
+<!-- --- -->
 
 ## 🔍 About Me
 
