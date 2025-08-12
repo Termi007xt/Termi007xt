@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://www.zuplic.com/wp-content/uploads/2025/02/web-developer-career.gif" alt="MasterHead" width="600" />
+<!--   <img src="https://www.zuplic.com/wp-content/uploads/2025/02/web-developer-career.gif" alt="MasterHead" width="600" /> -->
+  <img src="cropped_v5.gif" alt="Pong Animation" width="600"/>
 </p>
 
 <!-- https://cdn3.emoji.gg/emojis/1261-hackerbongocat.gif -->
