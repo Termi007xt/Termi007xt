@@ -67,11 +67,7 @@
       <img src="https://nirzak-streak-stats.vercel.app/?user=Termi007xt&theme=shadow_blue&hide_border=false" />
     </td>
   </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Termi007xt&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-    </td>
-  </tr>
+  
   <tr>
     <td align="center" colspan="2">
       <img src="https://github-profile-trophy.vercel.app/?username=Termi007xt&theme=dracula&no-frame=false&no-bg=false&margin-w=4" />
