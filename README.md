@@ -8,12 +8,7 @@
 <h1 align="center">Hi, I'm Maulik Sharma</h1>
 <h3 align="center">Student | Coder | Gamer</h3>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="images/breakout-dark.svg" />
-    <img alt="Breakout Game" src="images/breakout-dark.svg" width="100%" />
-  </picture>
-</p>
+
 
 
 <!--<p align="center"> -->
@@ -83,6 +78,13 @@
   </tr>
  
 </table>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="images/breakout-dark.svg" />
+    <img alt="Breakout Game" src="images/breakout-dark.svg" width="100%" />
+  </picture>
+</p>
 
 ---
 
