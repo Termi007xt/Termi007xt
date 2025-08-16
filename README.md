@@ -11,7 +11,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"  srcset="images/breakout-dark.svg" />
-    <img alt="Breakout Game" src="images/breakout-light.svg" width="100%" />
+    <img alt="Breakout Game" src="images/breakout-dark.svg" width="100%" />
   </picture>
 </p>
 
