@@ -2,7 +2,7 @@
 <!--   <img src="https://www.zuplic.com/wp-content/uploads/2025/02/web-developer-career.gif" alt="MasterHead" width="600" /> -->
   <img src="cropped_vn.gif" alt="Pong Animation" />
 </p>
-
+<p align="center">(Want a similar pong animation for youself? check out the <a href="https://github.com/Termi007xt/Pong-animation">tool</a> i made.</p>
 <!-- https://cdn3.emoji.gg/emojis/1261-hackerbongocat.gif -->
 
 <h1 align="center">Hi, I'm Maulik Sharma</h1>
