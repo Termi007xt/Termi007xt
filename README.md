@@ -6,7 +6,7 @@
 <!-- https://cdn3.emoji.gg/emojis/1261-hackerbongocat.gif -->
 
 <h1 align="center">Hi, I'm Maulik Sharma</h1>
-<h3 align="center">Student | Coder | Gamer</h3>
+<h3 align="center">Developer | Engineer | Innovator</h3>
 
 
 
