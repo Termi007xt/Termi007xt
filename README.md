@@ -39,7 +39,7 @@ Reach me at: **sharmamaulik95@gmail.com**
  
 ## Connect with Me
 
-<a href="https://www.linkedin.com/in/mauliksharma2004/" target="_blank">
+<a href="https://www.linkedin.com/in/mauliksh/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
 </a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/maulik._.sharma/" target="_blank">
